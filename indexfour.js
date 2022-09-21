@@ -98,7 +98,7 @@ function Wish_pages_four() {
                     <Hbd_title>
                         <Photo src="https://i2.wp.com/cigirbirlik.com/wp-content/uploads/2019/06/bank_respublika_logo_291018.jpg?resize=768%2C442&ssl=1"/>
                         <p className="title">You <span className="give">give</span> ☕ <span className="give">$10</span></p>
-                        <p className="minago">2 min ago</p> <p className="minage">•••</p>
+                        <p className="minago">2 min ago •••</p>
                     </Hbd_title>
                     <Hbd_name>Happy birthday bro! 
                         <span className="twofive">258 <BiLike className="like"/></span>
